@@ -1,0 +1,10 @@
+E:\Software\C#\hotel\prj\prj\bin\Debug\prj.exe.config
+E:\Software\C#\prj\prj\bin\Debug\prj.exe.config
+E:\Software\C#\prj\prj\bin\Debug\prj.exe
+E:\Software\C#\prj\prj\bin\Debug\prj.pdb
+E:\Software\C#\prj\prj\obj\Debug\prj.csprojResolveAssemblyReference.cache
+E:\Software\C#\prj\prj\obj\Debug\prj.Form1.resources
+E:\Software\C#\prj\prj\obj\Debug\prj.Properties.Resources.resources
+E:\Software\C#\prj\prj\obj\Debug\prj.csproj.GenerateResource.Cache
+E:\Software\C#\prj\prj\obj\Debug\prj.exe
+E:\Software\C#\prj\prj\obj\Debug\prj.pdb
